@@ -1,7 +1,21 @@
-// Body
+// // Body
 $body-bg: #f8fafc;
+.nav-link {
+    color: #000 !important;
+}
 
-// Typography
-$font-family-sans-serif: 'Nunito', sans-serif;
-$font-size-base: 0.9rem;
-$line-height-base: 1.6;
+.nav-item {
+    margin-left: 10px !important;
+}
+
+.navbar-brand {
+    margin-right: 3rem !important;
+    font-size: 20px !important;
+}
+nav {
+    padding-left: 3rem !important;
+}
+// // Typography
+// $font-family-sans-serif: 'Nunito', sans-serif;
+// $font-size-base: 0.9rem;
+// $line-height-base: 1.6;

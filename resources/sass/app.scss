@@ -6,3 +6,28 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+
+.projects {
+    display: flex !important; /* or inline-flex */
+    flex-direction: column;
+    flex:1;
+  }
+  .projects_container {
+    display: flex;
+  }
+
+.project {
+    text-align: center;
+  }
+.project_name {
+    
+  }  
+.project_image {
+    flex:2;
+    width: 50%;
+  } 
+  
+.project_image_img {
+    width: 100%;
+}
